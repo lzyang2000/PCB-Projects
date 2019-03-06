@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name phone_library)(type Legacy)(uri /Users/adiletpazylkarim/sp19/hope/week2/Untitled/phone_library.lib)(options "")(descr ""))
+  (lib (name Untitled-rescue)(type Legacy)(uri ${KIPRJMOD}/Untitled-rescue.lib)(options "")(descr ""))
+)

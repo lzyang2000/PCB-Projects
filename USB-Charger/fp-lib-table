@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name phone_conv_smd)(type KiCad)(uri ${KIPRJMOD}/phone_conv_smd.pretty)(options "")(descr ""))
+)
